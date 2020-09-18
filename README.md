@@ -1,4 +1,7 @@
 # sample-c-code
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4fe2125c1a434784ae4dd5776d4ef852)](https://app.codacy.com/manual/stepin104698/sample-c-code?utm_source=github.com&utm_medium=referral&utm_content=stepin104698/sample-c-code&utm_campaign=Badge_Grade_Dashboard)
+
 #my first repository on github
 #include<stdio.h>
 #include<conio.h>
